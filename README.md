@@ -1,4 +1,6 @@
 # LinearRegressionModel
+![image](https://github.com/MananChandna/LInearRegressionModel/assets/139998502/c40f26b5-dc50-4a8c-86cd-76da263ad79c)
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

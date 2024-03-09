@@ -28,8 +28,6 @@
     </ol>
     <h2>Contributing</h2>
     <p>Contributions to this repository are welcome. Feel free to fork the repository, make changes, and submit pull requests.</p>
-    <h2>License</h2>
-    <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
   </div>
 </body>
 </html>

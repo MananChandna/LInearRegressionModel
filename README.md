@@ -1,5 +1,5 @@
 # LinearRegressionModel
-![image](https://github.com/MananChandna/LInearRegressionModel/assets/139998502/c40f26b5-dc50-4a8c-86cd-76da263ad79c)
+![image](https://github.com/MananChandna/LInearRegressionModel/assets/139998502/d4c33359-8e99-4f05-baca-ddc8fe1dedf7)
 
 <!DOCTYPE html>
 <html lang="en">
